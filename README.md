@@ -6,6 +6,6 @@
 
 # Preview
 
-https://github.com/srijan-git/Portfolio-website/assets/69808361/124985d2-79ea-494a-8c6b-f34ce5d8c7ce
+<img width="1280" alt="Screenshot 2023-05-30 at 8 17 50 PM" src="https://github.com/srijan-git/Portfolio-website/assets/69808361/c22846bf-6140-4a5f-a8e4-13e8aa0b416c">
 
-https://github.com/srijan-git/Portfolio-website/assets/69808361/d08085db-6d8a-43ad-acd6-9c3c96e571d2
+<img width="1276" alt="Screenshot 2023-05-30 at 8 18 06 PM" src="https://github.com/srijan-git/Portfolio-website/assets/69808361/eb6b7451-010c-4c0d-be1a-9e558c3a1cb6">
