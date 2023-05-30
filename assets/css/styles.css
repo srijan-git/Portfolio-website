@@ -144,7 +144,9 @@ body.dark-theme {
 .dark-theme .section__border {
   border-bottom: 1px solid hsl(207, 4%, 32%);
 }
-
+.dark-theme .text {
+  color: rgba(108, 224, 212, 0.65);
+}
 .dark-theme::-webkit-scrollbar {
   background-color: hsl(207, 4%, 15%);
 }
@@ -306,7 +308,9 @@ body.dark-theme {
   letter-spacing: 0.3px;
   margin-bottom: 0.5rem;
 }
-
+.home__title h2{
+  text-align: center;
+}
 .home__blob {
   position: relative;
   width: 200px;
@@ -387,6 +391,10 @@ body.dark-theme {
   color: var(--title-color);
   padding-right: 4rem;
 }
+.text {
+  color: rgb(184, 17, 207);
+}
+
 /*=============== SKILLS ===============*/
 .skills__container {
   row-gap: 3.5rem;
