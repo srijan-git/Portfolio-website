@@ -192,7 +192,7 @@ sr.reveal(`.qualification__content`, { interval: 100 });
 
 /*=============== TYPED JS ===============*/
 var typed = new Typed(".text", {
-  strings: ["Frontend Developer", "Backend Developer", "Web Developer"],
+  strings: ["Quality Analyst", "Manual Tester", "Automation Tester"],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,

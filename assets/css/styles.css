@@ -308,7 +308,7 @@ body.dark-theme {
   letter-spacing: 0.3px;
   margin-bottom: 0.5rem;
 }
-.home__title h2{
+.home__title h2 {
   text-align: center;
 }
 .home__blob {
@@ -385,12 +385,21 @@ body.dark-theme {
   color: var(--text-color-light);
   margin-bottom: 1rem;
 }
-
-.home__info-description {
+.home__info-description,
+.home__info-number {
   font-family: var(--title-font);
   color: var(--title-color);
+}
+
+.home__info-description {
   padding-right: 4rem;
 }
+
+.home__info-number {
+  font-size: var(--h1-font-size);
+  font-weight: var(--font-semi-bold);
+}
+
 .text {
   color: rgb(184, 17, 207);
 }
@@ -1058,7 +1067,7 @@ body.dark-theme {
   }
 
   .home__perfil img {
-    width: 300px;
+    width: 400px;
   }
   .home__shape-wawes {
     width: 100px;
